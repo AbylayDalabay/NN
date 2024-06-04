@@ -81,7 +81,7 @@ def load_mnist(flatten=False):
 
     # We can now download and read the training and test set images and labels.
     X_train = load_mnist_images('train-images-idx3-ubyte.gz')
-    y_train = load_mnist_labels('train-labels-idx1-ubyte.gz')
+    y_train = load_mnist_labels('train-labels-idx1-ubyte.gz')   
     X_test = load_mnist_images('t10k-images-idx3-ubyte.gz')
     y_test = load_mnist_labels('t10k-labels-idx1-ubyte.gz')
 
