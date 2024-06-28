@@ -1,2 +1,4 @@
 *.gz
 shw2/hymenoptera_data/
+__pycache__/
+*.pyc
