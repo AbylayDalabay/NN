@@ -1,2 +1,2 @@
-fastText/
-lenta-ru-news.csv
+/data/*
+/fastText/*
